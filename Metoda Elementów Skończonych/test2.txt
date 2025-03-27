@@ -1,0 +1,10 @@
+ID	Rodzaj_materiału	Przewodność_elektryczna	Przewodność_cieplna	Długość	Szerokość	X_lewego_dolnego_narożnika	Y_lewego_dolnego_narożnika
+1	Przykładowa_nazwa_1	61.9			0.56			325	75		0				75
+2	Przykładowa_nazwa_2	62.7			0.68			300	38		325				75
+3	Przykładowa_nazwa_3	65.4			0.74			300	37		325				37
+4	Przykładowa_nazwa_4	67.8			0.78			325	75		625				75
+5	Przykładowa_nazwa_5	75.2			0.82			225	300		0				375
+6	Przykładowa_nazwa_6	78.4			0.84			500	100		225				375
+7	Przykładowa_nazwa_7	79.5			0.86			500	100		225				275
+8	Przykładowa_nazwa_8	81.2			0.89			500	100		225				175
+9	Przykładowa_nazwa_9	84.5			0.9			225	300		725				375
